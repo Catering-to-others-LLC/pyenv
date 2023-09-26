@@ -1,5 +1,3 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-  }
-}
+  "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Catering-to-others-LLC/pyenv/pull/2?quickstart=1)
